@@ -2,6 +2,6 @@
 
 ### terminal
 ```bash
-cd WaterFall\src\main\java
-java Water
+> cd WaterFall\src\main\java
+> java Water
 ```
