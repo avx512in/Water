@@ -1,2 +1,7 @@
 # Water
-Water the text editor
+
+### terminal
+```bash
+cd WaterFall\src\main\java
+java Water
+```
